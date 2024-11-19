@@ -38,7 +38,7 @@ Soy Estudiante universitario de programación en la UTN. Estoy en mi primer año
 </span>
 
 <h2>Encontrame también por acá</h2>
-<a href="www.linkedin.com/in/ezequiel-mareco">
+<a href="https://www.linkedin.com/in/ezequiel-mareco/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ezequiel.m0876/">
