@@ -11,14 +11,14 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy Estudiante universitario de programación en la UTN. Estoy en mi primer año de cursada y estoy adquieriendo experiencia en desarrollo web trabajando para Colidevs.  
+Soy Estudiante universitario de programación en la UTN. Estoy en mi segundo año de cursada y estoy adquieriendo experiencia en desarrollo web trabajando para Colidevs.  
 - 🌱 Actualmente aprendiendo...
   - C++
+  - C#
   - JavaScript
   - TypeScript
   - React js
   - Next js
-- También... 🎨 disfruto del dibujo, ⚽ fanático del futbol, 🎵 escucho musica todo el día.
 - 📫 Contactame vía mail: <a href="ezequielmareco33@gmail.com">ezequielmareco33@gmail.com</a>
 
 <h2> Skills </h2>
