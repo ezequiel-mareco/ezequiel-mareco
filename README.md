@@ -11,7 +11,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Soy Estudiante universitario de programación en la UTN. Estoy en mi segundo año de cursada y estoy adquieriendo experiencia en desarrollo web trabajando para Colidevs.  
+Soy Estudiante universitario de programación en la UTN. Estoy en mi segundo año de cursada.
 - 🌱 Actualmente aprendiendo...
   - C++
   - C#
